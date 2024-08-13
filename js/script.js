@@ -69,9 +69,9 @@
 // console.log(4*2 == 8);
 // console.log(4*2 === '8');
 
-const isChecked = true,
-      isClose = false;
+// const isChecked = true,
+//       isClose = false;
 
-console.log(isChecked && isClose);
-console.log(isChecked || isClose);
-console.log(!isChecked || isClose);
+// console.log(isChecked && isClose);
+// console.log(isChecked || isClose);
+// // console.log(isChecked || !isClose);
