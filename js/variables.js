@@ -37,11 +37,11 @@
 //     }
 // }
 
-const storeName = 'Bereke';
-const storeDescription = {
-    budget: 10000,
-    employees: ['Dimash', 'Madi', 'Alibi'],
-    products: {ball: 5000, bag: 3000},
-    open: true
-};
-console.log(storeDescription);
+// const storeName = 'Bereke';
+// const storeDescription = {
+//     budget: 10000,
+//     employees: ['Dimash', 'Madi', 'Alibi'],
+//     products: {ball: 5000, bag: 3000},
+//     open: true
+// };
+// console.log(storeDescription);
